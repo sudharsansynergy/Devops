@@ -1,4 +1,4 @@
-# MongoDB Connections
+# Siya apps MongoDB Connections
 
 > **Note:** Passwords have been replaced with `xxxx` for security purposes.
 
